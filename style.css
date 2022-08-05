@@ -79,14 +79,14 @@ a {
 }
 
 .inNav ul li {
-  line-height: 150px;
+  line-height: 1.5;
   list-style: none;
   font-size: 30px;
   line-height: 150px;
   font-weight: bold;
 }
 .inNav a {
-  line-height: 150px;
+  line-height: 1.5;
   text-decoration: none;
   color: rgb(255, 255, 255);
 }
