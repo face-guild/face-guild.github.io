@@ -67,9 +67,7 @@ a {
 }
 .sideBar a {
   text-decoration: none;
-    line-height 30px;
   color: rgb(255, 255, 255);
-  margin: 30;
 }
 
 .inNav {
@@ -77,21 +75,18 @@ a {
 }
 
 .inNav ul {
-  line-height 30px;
-  padding: 30px;
+  padding: 0;
 }
 
 .inNav ul li {
   list-style: none;
   font-size: 30px;
   font-weight: bold;
-  line-height: 30px;
+  line-height: 5px;
 }
 .inNav a {
-  line-height 30px;
   text-decoration: none;
   color: rgb(255, 255, 255);
-  margin: 30px;
 }
 
 #dropped {
