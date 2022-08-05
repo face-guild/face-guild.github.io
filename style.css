@@ -63,11 +63,11 @@ a {
   list-style: none;
   font-size: 30px;
   font-weight: bold;
-  color: white !important;
+  color: rgb(255, 255, 255) !important;
 }
 .sideBar a {
   text-decoration: none;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 .inNav {
@@ -85,7 +85,7 @@ a {
 }
 .inNav a {
   text-decoration: none;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 #dropped {
@@ -94,7 +94,7 @@ a {
 
 #dropped li {
   font-size: 20px !important;
-  color: white !important;
+  color: rgb(255, 255, 255) !important;
 }
 
 #dropped.active {
@@ -264,10 +264,10 @@ a {
 
 #dropList {
   cursor: pointer;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 #dropListt {
   cursor: pointer;
-  color: white;
+  color: rgb(255, 255, 255);
 }
