@@ -67,7 +67,7 @@ a {
 }
 .sideBar a {
   text-decoration: none;
-  color: 255, 255, 255;
+  color: black;
 }
 
 .inNav {
@@ -85,7 +85,7 @@ a {
 }
 .inNav a {
   text-decoration: none;
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 #dropped {
