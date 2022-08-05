@@ -1,0 +1,77 @@
+.navColor {
+  background-color: #9f0505;
+}
+
+.logo {
+  width: 70px;
+}
+
+.flag {
+  width: 50px;
+}
+
+#container {
+  margin: 30px auto;
+  max-width: 400px;
+  padding: 20px;
+}
+
+.form-wrap {
+  background: #fff;
+  padding: 15px 25px;
+  color: #333;
+}
+
+.form-wrap h1,
+p {
+  text-align: center;
+}
+
+.form-wrap .form-group {
+  margin-top: 15px;
+}
+
+.form-wrap .form-group label {
+  display: block;
+  color: #666;
+}
+
+.form-wrap .form-group input {
+  width: 100%;
+  padding: 10px;
+  border: #ddd 1px solid;
+  border-radius: 5px;
+}
+
+.form-wrap button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-top: 20px;
+  color: rgb(219, 219, 219);
+  background: #9f0505;
+  cursor: pointer;
+}
+
+.form-wrap button:hover {
+  background: #8e0303;
+  color: #fff;
+}
+
+.form-wrap .bottom-text {
+  font-size: 13px;
+  margin-top: 20px;
+}
+
+div footer {
+  text-align: center;
+}
+
+div footer a {
+  color: #49c1a2;
+}
+
+#main-footer {
+  background: #9f0505;
+  color: #fff;
+}
