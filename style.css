@@ -63,11 +63,11 @@ a {
   list-style: none;
   font-size: 30px;
   font-weight: bold;
-  line-height 30px;
   color: rgb(255, 255, 255) !important;
 }
 .sideBar a {
   text-decoration: none;
+    line-height 30px;
   color: rgb(255, 255, 255);
 }
 
