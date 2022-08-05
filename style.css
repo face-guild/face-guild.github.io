@@ -76,6 +76,7 @@ a {
 }
 
 .inNav ul {
+  line-height 30px;
   padding: 0;
 }
 
@@ -83,7 +84,7 @@ a {
   list-style: none;
   font-size: 30px;
   font-weight: bold;
-  line-height: 10px;
+  line-height: 30px;
 }
 .inNav a {
   text-decoration: none;
