@@ -79,13 +79,12 @@ a {
 }
 
 .inNav ul li {
-  line-height: 6.5;
   list-style: none;
   font-size: 30px;
   font-weight: bold;
+  line-height: 5px;
 }
 .inNav a {
-  line-height: 6.5;
   text-decoration: none;
   color: rgb(255, 255, 255);
 }
@@ -123,7 +122,7 @@ a {
 
 .imgBox1 {
   width: 50%;
-  height: 400px;
+  height: 200px;
 }
 
 .imgBox1 img {
