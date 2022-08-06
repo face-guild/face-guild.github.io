@@ -75,18 +75,21 @@ a {
 }
 
 .inNav ul {
+  line-height 500px;
   height: 100px
   padding: 0;
 }
 
-.inNav ul li {
+.inNav ul li {  
+  line-height 500px;
   height: 100px;
   list-style: none;
   font-size: 30px;
   font-weight: bold;
 }
 .inNav a {
-  height: 100px
+  line-height 500px;
+  height: 100px;
   text-decoration: none;
   color: rgb(255, 255, 255);
 }
@@ -95,7 +98,8 @@ a {
   display: none;
 }
 
-#dropped li {
+#dropped li {  
+  line-height 500px;
   font-size: 20px !important;
   color: rgb(255, 255, 255) !important;
 }
