@@ -90,7 +90,7 @@ a {
 }
 
 #dropped {
-  display: none;
+  display: block;
 }
 
 #dropped li {
