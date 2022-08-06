@@ -84,7 +84,7 @@ a {
   font-weight: bold;
 }
 .inNav a {
-  
+  font-size: 100px;
   text-decoration: none;
   color: rgb(255, 255, 255);
 }
