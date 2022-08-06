@@ -75,17 +75,17 @@ a {
 }
 
 .inNav ul {
-  padding: 100px 100px 100px 100px;
+  line-height: 40%;
 }
 
 .inNav ul li {
-  padding: 100px 100px 100px 100px
   list-style: none;
   font-size: 30px;
   font-weight: bold;
+  line-height: 40%;
 }
 .inNav a {
-  padding: 100px 100px 100px 100px
+  line-height: 40%;
   text-decoration: none;
   color: rgb(255, 255, 255);
 }
