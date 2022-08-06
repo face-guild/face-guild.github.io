@@ -1,0 +1,273 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+/* ul {
+  padding: 0 !important;
+  margin: 0 !important;
+} */
+
+a {
+  cursor: pointer;
+}
+
+.navColor {
+  background-color: #9f0505;
+  min-height: 10vh;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 70px;
+}
+
+.flag {
+  width: 50px;
+}
+
+#main-footer {
+  min-height: 10vh;
+  background: #9f0505;
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+
+.midSection {
+  min-height: 80vh;
+}
+
+.sideBar {
+  background-color: #b3b3b3;
+  min-height: 80vh;
+}
+
+.sideBar .navbar-brand {
+  display: none;
+}
+
+.sideBar .flags {
+  display: none !important;
+}
+
+.sideBar ul li {
+  list-style: none;
+  font-size: 30px;
+  font-weight: bold;
+  color: black !important;
+}
+.sideBar a {
+  text-decoration: none;
+  color: black;
+}
+
+.inNav {
+  display: none;
+}
+
+.inNav ul {
+  padding: 0;
+}
+
+.inNav ul li {
+  list-style: none;
+  font-size: 30px;
+  font-weight: bold;
+}
+.inNav a {
+  text-decoration: none;
+  color: black;
+}
+
+#dropped {
+  display: none;
+}
+
+#dropped li {
+  font-size: 20px !important;
+  color: black !important;
+}
+
+#dropped.active {
+  display: inline;
+}
+#droppedd {
+  display: none;
+}
+
+#droppedd li {
+  font-size: 20px !important;
+}
+
+#droppedd.active {
+  display: inline;
+}
+
+.arrow {
+  display: none !important;
+}
+.arrow.active {
+  display: inline !important;
+}
+
+.imgBox1 {
+  width: 50%;
+  height: 200px;
+}
+
+.imgBox1 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.imgBox2 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.imgBox2 {
+  width: 25%;
+}
+
+.officerAccess {
+  color: #5153a0 !important;
+  cursor: pointer;
+}
+.officerAccessLogout {
+  color: #9f0505 !important;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 600px) {
+  .imgBox1 {
+    width: 100%;
+  }
+  .imgBox2 {
+    width: 100%;
+    height: 100px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .navbar-nav {
+    display: none;
+    display: flex;
+    flex-direction: row !important;
+  }
+  .inNav {
+    display: inline;
+  }
+  .myGridRow .sideBar {
+    display: none !important;
+  }
+}
+@media screen and (min-width: 992px) {
+  body {
+    background-color: #b3b3b3 !important;
+  }
+
+  .midSection {
+    max-width: 1600px;
+  }
+
+  .sideBar {
+    background-color: #9f0505;
+  }
+
+  .sideBar .navbar-brand {
+    padding-left: 40px;
+    margin-bottom: 20px;
+  }
+
+  .navColor {
+    display: none;
+  }
+
+  .midSection {
+    height: 100vh;
+    background-color: white;
+  }
+
+  .sideBar {
+    height: 100vh;
+  }
+
+  #main-footer {
+    display: none;
+  }
+
+  .sideBar .navbar-brand {
+    display: inline;
+  }
+
+  .sideBar .flags {
+    display: flex !important;
+    align-items: center !important;
+    flex-wrap: wrap;
+  }
+}
+
+#logoutBtn {
+  display: none;
+}
+
+#logoutBtn.activee {
+  display: inline;
+}
+#logoutBtn2 {
+  display: none;
+}
+
+#logoutBtn2.activee {
+  display: inline;
+  margin: 0 30px;
+}
+
+#hallOfFame {
+  display: none;
+}
+
+#hallOfFame.activee {
+  display: inline;
+}
+#hallOfFame2 {
+  display: none;
+}
+
+#hallOfFame2.activee {
+  display: inline;
+}
+
+#hallOfFame3 {
+  display: none;
+}
+
+#hallOfFame3.activee {
+  display: inline;
+}
+#hallOfFame4 {
+  display: none;
+}
+
+#hallOfFame4.activee {
+  display: inline;
+}
+
+#dropList {
+  cursor: pointer;
+  color: black;
+}
+
+#dropListt {
+  cursor: pointer;
+  color: black;
+}
