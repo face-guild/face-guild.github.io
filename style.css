@@ -140,11 +140,11 @@ a {
 }
 
 .officerAccess {
-  color: #5153a0 !important;
+  color: white;
   cursor: pointer;
 }
 .officerAccessLogout {
-  color: #9f0505 !important;
+  color: white !important;
   cursor: pointer;
 }
 
