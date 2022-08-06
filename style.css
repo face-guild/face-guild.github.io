@@ -106,11 +106,9 @@ a {
 }
 
 #dropped.active {
-  line-height: 100px;
   display: inline;
 }
 #droppedd {
-  line-height: 100px;
   display: none;
 }
 
