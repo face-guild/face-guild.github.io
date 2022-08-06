@@ -75,17 +75,17 @@ a {
 }
 
 .inNav ul {
-  line-height: 40%;
+  line-height: 200px;
 }
 
 .inNav ul li {
   list-style: none;
   font-size: 30px;
   font-weight: bold;
-  line-height: 40%;
+  line-height: 200px;
 }
 .inNav a {
-  line-height: 40%;
+  line-height: 200px;
   text-decoration: none;
   color: rgb(255, 255, 255);
 }
