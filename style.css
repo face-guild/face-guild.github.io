@@ -60,7 +60,7 @@ a {
 }
 
 .sideBar ul li {
-  line-height: 50px;
+  line-height: 60px;
   list-style: none;
   font-size: 40px;
   font-weight: bold;
@@ -76,7 +76,7 @@ a {
 }
 
 .inNav ul {
-  line-height: 50px;
+  line-height: 60px;
   padding: 0;
 }
 
