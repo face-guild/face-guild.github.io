@@ -71,7 +71,7 @@ a {
 }
 
 .inNav {
-  display: none;
+  display: block;
 }
 
 .inNav ul {
