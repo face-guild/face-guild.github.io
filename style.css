@@ -115,12 +115,10 @@ a {
 }
 
 #droppedd li {
-  line-height: 100px;
   font-size: 30px !important;
 }
 
 #droppedd.active {
-  line-height: 100px;
   display: inline;
 }
 
