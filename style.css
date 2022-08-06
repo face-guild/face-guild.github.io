@@ -94,7 +94,7 @@ a {
 }
 
 #dropped li {
-  line-height: 10;
+  line-height: 100px;
   font-size: 30px !important;
   color: rgb(255, 255, 255) !important;
 }
