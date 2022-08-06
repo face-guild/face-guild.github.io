@@ -60,7 +60,6 @@ a {
 }
 
 .sideBar ul li {
-  line-height 500% !important;
   list-style: none;
   font-size: 30px;
   font-weight: bold;
@@ -95,6 +94,7 @@ a {
 }
 
 #dropped li {
+  line-height: 10;
   font-size: 30px !important;
   color: rgb(255, 255, 255) !important;
 }
