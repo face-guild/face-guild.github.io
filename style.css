@@ -75,16 +75,18 @@ a {
 }
 
 .inNav ul {
+  height: 100px
   padding: 0;
 }
 
 .inNav ul li {
-  height: 100px
+  height: 100px;
   list-style: none;
   font-size: 30px;
   font-weight: bold;
 }
 .inNav a {
+  height: 100px
   text-decoration: none;
   color: rgb(255, 255, 255);
 }
