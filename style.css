@@ -84,24 +84,20 @@ a {
   font-size: 30px;
   font-weight: bold;
   line-height: 200px;
-  padding 200px 200px 200px 200px;
 }
 .inNav a {
   line-height: 200px;
-  padding 200px 200px 200px 200px;
   text-decoration: none;
   color: rgb(255, 255, 255);
 }
 
 #dropped {
   display: block;
-  padding 200px 200px 200px 200px;
 }
 
 #dropped li {
   font-size: 20px !important;
   line-height: 200px;
-  padding 200px 200px 200px 200px;
   color: rgb(255, 255, 255) !important;
 }
 
@@ -114,7 +110,6 @@ a {
 
 #droppedd li {
   font-size: 20px !important;
-  padding 200px 200px 200px 200px;
 }
 
 #droppedd.active {
