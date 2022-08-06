@@ -60,7 +60,7 @@ a {
 }
 
 .sideBar ul li {
-  line-height: 10px;
+  line-height: 50px;
   list-style: none;
   font-size: 40px;
   font-weight: bold;
@@ -76,7 +76,7 @@ a {
 }
 
 .inNav ul {
-  line-height: 10px;
+  line-height: 50px;
   padding: 0;
 }
 
@@ -95,7 +95,7 @@ a {
 }
 
 #dropped li {
-  font-size: 30px !important;
+  font-size: 40px !important;
   color: rgb(255, 255, 255) !important;
 }
 
