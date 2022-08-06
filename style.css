@@ -82,14 +82,11 @@ a {
 }
 
 .inNav ul li {
-  line-height: 100px;
   list-style: none;
   font-size: 30px;
   font-weight: bold;
 }
 .inNav a {
-  line-height: 100px;
-  font-size: 100px;
   text-decoration: none;
   color: rgb(255, 255, 255);
 }
