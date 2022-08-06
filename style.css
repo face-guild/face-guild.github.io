@@ -52,11 +52,11 @@ a {
 }
 
 .sideBar .navbar-brand {
-  display: none;
+  display: block;
 }
 
 .sideBar .flags {
-  display: none !important;
+  display: block !important;
 }
 
 .sideBar ul li {
@@ -94,7 +94,7 @@ a {
 }
 
 #dropped {
-  display: none;
+  display: block;
   padding 200px 200px 200px 200px;
 }
 
@@ -109,7 +109,7 @@ a {
   display: inline;
 }
 #droppedd {
-  display: none;
+  display: block;
 }
 
 #droppedd li {
